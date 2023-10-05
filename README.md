@@ -1,5 +1,5 @@
 # UML-iPhone
-## Desafio de projeto do curso: dominando a Linguagem de Programação Java
+## Desafio de projeto do curso: Dominando a Linguagem de Programação Java
 
 - O desafio proposto foi criar o diagrama de classes UML do lançamento do primeiro iPhone.
 
